@@ -5,6 +5,7 @@
 📧 **Email:** poojadavande7@gmail.com  
 💻 **GitHub:** [PoojaDavande](https://github.com/PoojaDavande)  
 ☁️ **Trailhead:** [My Trailhead Profile](https://www.salesforce.com/trailblazer/bopwakgenal8id6z9o)
+
 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/pooja-davande-04b40332a/) 
 ---
 
