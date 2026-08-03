@@ -4,7 +4,8 @@
 
 📧 **Email:** poojadavande7@gmail.com  
 💻 **GitHub:** [PoojaDavande](https://github.com/PoojaDavande)  
-☁️ **Trailhead:** [My Trailhead Profile](YOUR_TRAILHEAD_LINK)
+☁️ **Trailhead:** [My Trailhead Profile](https://www.salesforce.com/trailblazer/bopwakgenal8id6z9o)
+    **Linkedin:** [Pooja-Davande](https://www.linkedin.com/in/pooja-davande-04b40332a/)
 
 ---
 
